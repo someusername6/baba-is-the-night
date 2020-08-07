@@ -1,0 +1,10 @@
+[general]
+author=someusername6
+start=100level
+name=Baba is the Night
+firstlevel=000level
+mods=1
+
+[levels]
+rolling_levelid=0
+levelid=601
