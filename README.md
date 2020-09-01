@@ -24,5 +24,10 @@ and pull new updates when necessary.
 Custom levels and level editor must be enabled.
 
 ### Changelog
+- 1.0.1
+  - Change skulls into ghosts in levels where defeat is triggered by overlap rather than proximity.
+  - Recolor some inactive text sprites for better visibility.
+  - Add missing path to rose on Chantry level.
+  - Add extra hidden rules to (secret location) to avoid unwinnable save state.
 - 1.0.0
   - Initial release.
