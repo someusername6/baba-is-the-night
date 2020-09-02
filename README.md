@@ -7,7 +7,7 @@ This is a custom level pack for [Baba is You](https://hempuli.com/baba/).
 
 Includes:
 
-* 63 puffs, 3 blossoms, 4 bonuses
+* 64 puffs, 3 blossoms, 4 bonuses
 * Custom music tracks
 * Scripts for visual effects and sounds
 
