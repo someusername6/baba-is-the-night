@@ -24,6 +24,10 @@ and pull new updates when necessary.
 Custom levels and level editor must be enabled.
 
 ### Changelog
+- 1.0.2
+  - Turn some paths and levels in Chantry visible (but not accessible) at map start.
+  - Change graphical representation for metatext, other minor graphical updates.
+  - Added brief credits roll.
 - 1.0.1
   - Change skulls into ghosts in levels where defeat is triggered by overlap rather than proximity.
   - Recolor some inactive text sprites for better visibility.
